@@ -1,8 +1,8 @@
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gomah/bluise)
 
-# Bluise - A Nuxt.js & Netlify CMS boilerplate.
+# NerdCreations - Website built on Nuxt.js & Netlify CMS boilerplate.
 
-I wanted to explore Netlify CMS & Tailwind CSS, ended up creating this boilerplate.
+I want to create company website / customer portal and blog with not much time on my hands and get my content creator to take over as soon as possible
 
 So far we've got:
 
@@ -22,13 +22,14 @@ Few things I'd like to add in the future:
 - Dynamic sections/widgets.
 - Responsive CSS markdown.
 - Tests
+- OAuth Support
+- Add Google Analytics
 
 ## Quickstart
 
 ### Prerequisites
 
-- [Yarn](https://yarnpkg.com/lang/en/docs/install/#mac-tab)
-- [Node.js](https://nodejs.org/en/)
+To test and deploy to new test or production environment
 
 ```bash
 # ensure you have the prerequisites
